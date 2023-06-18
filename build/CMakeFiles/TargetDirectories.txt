@@ -1,0 +1,3 @@
+C:/Users/valer/Desktop/IMAC/Voronoi_delaunay/build/CMakeFiles/VoronoiApp.dir
+C:/Users/valer/Desktop/IMAC/Voronoi_delaunay/build/CMakeFiles/edit_cache.dir
+C:/Users/valer/Desktop/IMAC/Voronoi_delaunay/build/CMakeFiles/rebuild_cache.dir

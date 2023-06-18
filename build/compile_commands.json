@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/valer/Desktop/IMAC/Voronoi_delaunay/build",
+  "command": "C:\\VisualStudio\\msy64\\mingw64\\bin\\gcc.exe  @CMakeFiles/VoronoiApp.dir/includes_C.rsp -g -Wall -Wextra -Wpedantic -o CMakeFiles\\VoronoiApp.dir\\src\\SDL2_gfxPrimitives.c.obj -c C:\\Users\\valer\\Desktop\\IMAC\\Voronoi_delaunay\\src\\SDL2_gfxPrimitives.c",
+  "file": "C:/Users/valer/Desktop/IMAC/Voronoi_delaunay/src/SDL2_gfxPrimitives.c",
+  "output": "CMakeFiles/VoronoiApp.dir/src/SDL2_gfxPrimitives.c.obj"
+},
+{
+  "directory": "C:/Users/valer/Desktop/IMAC/Voronoi_delaunay/build",
+  "command": "C:\\VisualStudio\\msy64\\mingw64\\bin\\g++.exe  @CMakeFiles/VoronoiApp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\VoronoiApp.dir\\src\\application_ui.cpp.obj -c C:\\Users\\valer\\Desktop\\IMAC\\Voronoi_delaunay\\src\\application_ui.cpp",
+  "file": "C:/Users/valer/Desktop/IMAC/Voronoi_delaunay/src/application_ui.cpp",
+  "output": "CMakeFiles/VoronoiApp.dir/src/application_ui.cpp.obj"
+},
+{
+  "directory": "C:/Users/valer/Desktop/IMAC/Voronoi_delaunay/build",
+  "command": "C:\\VisualStudio\\msy64\\mingw64\\bin\\g++.exe  @CMakeFiles/VoronoiApp.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\VoronoiApp.dir\\src\\main.cpp.obj -c C:\\Users\\valer\\Desktop\\IMAC\\Voronoi_delaunay\\src\\main.cpp",
+  "file": "C:/Users/valer/Desktop/IMAC/Voronoi_delaunay/src/main.cpp",
+  "output": "CMakeFiles/VoronoiApp.dir/src/main.cpp.obj"
+}
+]
